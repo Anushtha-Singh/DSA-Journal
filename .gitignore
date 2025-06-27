@@ -1,0 +1,23 @@
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Mac OS files
+.DS_Store
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
